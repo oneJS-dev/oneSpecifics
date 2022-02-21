@@ -2,7 +2,7 @@
   "name": "@onejs-dev/onespecifics",
   "version": "0.0.4",
   "description": "",
-  "main": "oneSpecifics.js",
+  "main": "oneSpecifics.browser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
